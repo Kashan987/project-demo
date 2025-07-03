@@ -1,3 +1,4 @@
 # project-demo
-This is my first Git Repository
-author - Kashan Khan
+This is my first Git Repository.
+<br>
+Author - Kashan Khan
